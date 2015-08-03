@@ -6,6 +6,7 @@ Para isso você deverá utilizar a API do [Trackt](https://trakt.tv) (você deve
 
 A prova foi pensada para ser feita em no máximo 4 horas e você deve utilizar o mockup abaixo como base para seu desenvolvimento:
 
+![mockup](https://raw.githubusercontent.com/Movile/recrutamento-android/master/listagem-episodios-da-temporada.png "Mockup")
 
 # Requisitos
 * Deverá ser feito usando o Android Studio e Gradle
