@@ -74,4 +74,4 @@ You have two options:
 
 1) Create a _pull request_ to our [__public__ repository](https://github.com/Movile/recrutamento-android). Note that your *fork* will be public for anyone to see.
 
-2) In case you prefer some privacy, create a repository with the name **recrutamento-android** in yout GitHub ou Bitbucket account, add the user recruitment-android-movile as a collaborator (read-only access is enough) and send an email to recruitment.android@movile.com to let us know.
+2) In case you prefer some privacy, create a repository with the name **recrutamento-android** in your GitHub or Bitbucket account, add the user recruitment-android-movile as a collaborator (read-only access is enough) and send an email to recruitment.android@movile.com to let us know.
