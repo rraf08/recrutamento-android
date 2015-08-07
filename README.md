@@ -7,7 +7,7 @@
 
 Crie um app Android que mostre uma listagem de episódios de uma temporada específica de uma série. Acima dessa listagem exiba um cabeçalho com algumas informações da série (thumbnail da capa da série) e também da temporada (imagem da temporada e avaliação). Tanto a série quanto a temporada usada podem ser parâmetros fixos no código, ou seja, não precisa criar nenhuma outra tela para que essa escolha seja dinâmica.
 
-Para isso você deverá utilizar a API do [Trackt](https://trakt.tv) (você deve se registrar no site para ter acesso à API) e também os assets disponibilizados.
+Para isso você deverá utilizar a API do [Trakt](https://trakt.tv) (você deve se registrar no site para ter acesso à API) e também os assets disponibilizados.
 
 A prova foi pensada para ser feita em no máximo 4 horas e você deve utilizar o mockup acima como base para seu desenvolvimento.
 
@@ -44,7 +44,7 @@ Você tem duas opções:
 
 Create an Android app that shows a list of episodes from a serie’s season. Above that episodes list create a header that displays some informations about the serie (cover thumbnail) and also the season (banner and rating). It’s important to notice that both serie and season can be chosen as you like and can be fixed in the code, which means that you don’t have to create any other screen to make this choice dynamic.
 
-In order to create this app you will use the [Trackt](https://trakt.tv) API (you must sign up in the website to have access to the API) and also the assets we provided.
+In order to create this app you will use the [Trakt](https://trakt.tv) API (you must sign up in the website to have access to the API) and also the assets we provided.
 
 This test was designed to be developed in at most 4 hours and you should use the mockup above as base for your development.
 
