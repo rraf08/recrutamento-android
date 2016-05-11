@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#f19708</color>
+    <color name="primaryDark">#ff8201</color>
+    <color name="accent">#999999</color>
+    <color name="accentLight">#E1E1E1</color>
+
+    <color name="text_color">#FFFFFF</color>
+    <color name="text_color_header">#919191</color>
+    <color name="text_color_episode">#403e3e</color>
+
+    <color name="rating_bar_color">#FFFF00</color>
+</resources>

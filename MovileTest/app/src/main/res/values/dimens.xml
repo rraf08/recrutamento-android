@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="parallax_image_height">200dp</dimen>
+    <dimen name="header_bar_height">110dp</dimen>
+
+    <dimen name="margin_top_banner">50dp</dimen>
+    <dimen name="margin_right_banner">120dp</dimen>
+    <dimen name="margin_bottom_banner">10dp</dimen>
+    <dimen name="margin_left_banner">10dp</dimen>
+
+    <dimen name="row_heigth">78dp</dimen>
+
+    <dimen name="flexible_space_image_height">240dp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movile Test</string>
+    <string name="title_list">How I Met Your Mother - Season 5</string>
+    <string name="text_header">Episodes</string>
+    <string name="message_header_land">Season 5</string>
+    <string name="error_message">An error ocurred, it is not possible to show some information now</string>
+</resources>
